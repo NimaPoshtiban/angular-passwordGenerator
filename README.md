@@ -1,6 +1,6 @@
-#Important note: 
-
-Make sure you have installed the node modules in the directory before using the app
+# How to use 
+1.run ```npm install```
+2.run ```ng serve```
 
 # Pw
 
